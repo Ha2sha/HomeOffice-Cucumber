@@ -1,0 +1,53 @@
+2022-05-16 10:05:327 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 10:05:347 INFO  StartPage :28 - Clicking on Start Now button 
+2022-05-16 10:05:357 INFO  SelectNationalityPage :27 - Selecting Nationality Chile
+2022-05-16 10:05:773 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:785 INFO  ReasonForTravelPage :27 - selecting reason for visit Work, academic visit or business
+2022-05-16 10:05:545 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:548 INFO  DurationOfStayPage :29 - Selecting duration of stay longer than 6 months
+2022-05-16 10:05:176 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:180 INFO  WorkTypePage :29 - Selecting job type: Health and care professional
+2022-05-16 10:05:110 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:113 INFO  ResultPage :30 - Verifying Result text 
+2022-05-16 10:05:146 INFO  ResultPage :25 - Getting Result Message: You need a visa to work in health and care
+2022-05-16 10:05:498 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 10:05:928 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 10:05:437 INFO  StartPage :28 - Clicking on Start Now button 
+2022-05-16 10:05:454 INFO  SelectNationalityPage :27 - Selecting Nationality Colombia
+2022-05-16 10:05:867 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:878 INFO  ReasonForTravelPage :27 - selecting reason for visit Join partner or family for a long stay
+2022-05-16 10:05:350 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:354 INFO  FamilyImmigrationStatusPage :29 - Selecting Immigration Status Yes
+2022-05-16 10:05:753 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:756 INFO  ResultPage :30 - Verifying Result text 
+2022-05-16 10:05:789 INFO  ResultPage :25 - Getting Result Message: You’ll need a visa to join your family or partner in the UK
+2022-05-16 10:05:401 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 10:05:05 INFO  StartPage :28 - Clicking on Start Now button 
+2022-05-16 10:05:14 INFO  SelectNationalityPage :27 - Selecting Nationality Australia
+2022-05-16 10:05:306 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:315 INFO  ReasonForTravelPage :27 - selecting reason for visit Tourism or visiting family and friends
+2022-05-16 10:05:619 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:624 INFO  ResultPage :30 - Verifying Result text 
+2022-05-16 10:05:658 INFO  ResultPage :25 - Getting Result Message: You will not need a visa to come to the UK
+2022-05-16 10:05:492 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 10:05:659 INFO  StartPage :28 - Clicking on Start Now button 
+2022-05-16 10:05:665 INFO  SelectNationalityPage :27 - Selecting Nationality Chile
+2022-05-16 10:05:987 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:993 INFO  ReasonForTravelPage :27 - selecting reason for visit Work, academic visit or business
+2022-05-16 10:05:295 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:301 INFO  DurationOfStayPage :29 - Selecting duration of stay longer than 6 months
+2022-05-16 10:05:564 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:570 INFO  WorkTypePage :29 - Selecting job type: Health and care professional
+2022-05-16 10:05:853 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:858 INFO  ResultPage :30 - Verifying Result text 
+2022-05-16 10:05:890 INFO  ResultPage :25 - Getting Result Message: You need a visa to work in health and care
+2022-05-16 10:05:679 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-16 10:05:110 INFO  StartPage :28 - Clicking on Start Now button 
+2022-05-16 10:05:115 INFO  SelectNationalityPage :27 - Selecting Nationality Colombia
+2022-05-16 10:05:376 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:381 INFO  ReasonForTravelPage :27 - selecting reason for visit Join partner or family for a long stay
+2022-05-16 10:05:713 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:716 INFO  FamilyImmigrationStatusPage :29 - Selecting Immigration Status Yes
+2022-05-16 10:05:02 INFO  SelectNationalityPage :33 - Clicking on next button 
+2022-05-16 10:05:07 INFO  ResultPage :30 - Verifying Result text 
+2022-05-16 10:05:48 INFO  ResultPage :25 - Getting Result Message: You’ll need a visa to join your family or partner in the UK
